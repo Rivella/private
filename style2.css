@@ -1,17 +1,17 @@
 html,body{margin: 0; padding: 0}
 body{font-family: arial,sans-serif: font-size 0.75em; text-align: center; background-color: #183152 ; color: #493F0B; }
 
-div#main{width: 800px; margin: 0 auto; text-align: center; background-color: #183152; border: 2px solid #000000;}
+div#main{width: 800px; margin: 0 auto; text-align: center; background-color: #375D81; border: 2px solid #000000;}
 
 div#header{float:left; height: 200px; padding-left: 100px; width: 600px; background-color: #375F81;  text-align: center; color: #E1E6FA}
 
 div#languages{float: right; height: 200px; width: 100px; background-color: #375F81; text-align: center; color: #E1E6FA; align: center;}
 
-div#navigation{float: left; width: 20%; background-color: #375F81; text-align: left; padding-left: 1%; color: #ABC8E2}
+div#navigation{float: left; width: 150px; background-color: #375F81; text-align: left; padding-left: 15px; color: #ABC8E2}
 div#navigation a:link {color: #ABC8E2;}
 div#navigation a:visited {color: #ABC8E2;}
 
-div#center{ text-align: left; padding-left:  22%; background-color: #ABC8E2; color: #183152}
+div#center{ text-align: left; margin-left: 165px; padding: 15px; background-color: #ABC8E2; color: #183152}
 
 div#footnote{clear: both; text-align: center; background-color: #C3D7ED}
 div#footnote regular{text-align: center; font-family: arial, sans serif; color: #183152}
